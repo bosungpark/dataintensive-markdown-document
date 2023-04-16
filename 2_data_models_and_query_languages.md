@@ -53,6 +53,3 @@ it is specialized for m-n relationships.
 
 not enforce a schema.
 
-
-Q. MapReduce(46p) -> postgres? date_trunc? 구체적인 지시여서?
-

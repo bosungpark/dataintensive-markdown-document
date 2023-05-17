@@ -21,6 +21,7 @@ Linearizability
 
 
 Linearizability와 Serializability는 비슷하지만 차이가 있다. Serializability는 트랜잭션과 보다 관련이 있다.
+Serializability는 하나의 오브젝트와 관련이 있고, Linearizability는 여러 오브젝트의 관계성에 관련이 있다.
 
 Locking and leader election
 =
